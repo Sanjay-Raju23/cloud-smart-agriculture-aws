@@ -32,4 +32,9 @@ This project implements a cloud-based smart agriculture monitoring system using 
 - Weather API integration
 - Automated irrigation control
 - Advanced analytics and alerts
--
+
+## Publication
+- **IoT-Based Intelligent Dustbin for Real-Time Urban Waste Monitoring and Management**  
+  Published in IEEE Xplore, 2025  
+  https://ieeexplore.ieee.org/document/11254708
+
