@@ -32,3 +32,4 @@ This project implements a cloud-based smart agriculture monitoring system using 
 - Weather API integration
 - Automated irrigation control
 - Advanced analytics and alerts
+-
